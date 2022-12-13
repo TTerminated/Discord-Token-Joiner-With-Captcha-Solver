@@ -1,5 +1,9 @@
 # Discord-Token-Joiner-With-Captcha-Solver
 
+**Discord-Token-Joiner-With-Captcha-Solver!** :star:
+
+# 〢Python Version needed
+
 **Setup Python**
 
 1. go to "https://www.python.org/downloads/"
@@ -19,3 +23,6 @@
 8. press "Install"
 
 9. now you are done
+
+# 〢Discord
+**Join our discord: https://discord.gg/MCemrFARFy**
