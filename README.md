@@ -2,6 +2,8 @@
 
 **Discord-Token-Joiner-With-Captcha-Solver!** :star:
 
+*Fast joiner and solves captcha to join discord server's since everyone hates to do captcha!*
+
 # 〢Python Version needed
 
 **Setup Python**
