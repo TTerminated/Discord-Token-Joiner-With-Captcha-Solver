@@ -27,4 +27,4 @@
 9. now you are done
 
 # 〢Discord
-**Join our discord: https://discord.gg/MCemrFARFy**
+**Join our discord: https://discord.gg/termed**
